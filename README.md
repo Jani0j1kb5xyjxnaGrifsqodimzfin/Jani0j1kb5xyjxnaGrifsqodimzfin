@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm Jani0j1kb5xyjxnaGrifsqodimzfin
 
-<!--
-**Jani0j1kb5xyjxnaGrifsqodimzfin/Jani0j1kb5xyjxnaGrifsqodimzfin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚵 🎤 🚴 A lover of desktop development 🚵 🎤 🚴
 
-Here are some ideas to get you started:
+## About Me
+🎯 🎨 A designer in programming languages 🎯 🎨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🎳 🎯 🥋 🏒 Excited about developer relations 🎳 🎯 🥋 🏒
+
+### Fun Facts
+🎨 🏄 Building the future with mobile development 🎨 🏄
+
+---
+🏊 🎮 🚴 🎬 🛼 Thanks for visiting my profile! 🥊 🎮 🚵 🎬 🏄
